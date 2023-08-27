@@ -1,14 +1,14 @@
 # Array List
 
 ArrayList is a class in Java that is a part of the java.util package. It is an implementation of the List interface and provides dynamic array-like behavior. It allows you to store and manipulate a collection of elements. Here are some key features and points about ArrayList:
-- Dynamic Sizing: Unlike regular arrays, ArrayList can dynamically grow and shrink in size as elements are added or removed. You don't need to specify a fixed size upfront.
-- Generic: ArrayList is a generic class, which means it can hold elements of any data type. You specify the type of elements it will hold when creating an instance.
-- Index-Based Access: Elements in an ArrayList are stored with indexes, and you can access elements using their index. The index starts from 0.
-- Adding Elements: You can add elements to an ArrayList using the add() method. You can add elements at the end of the list or at a specific index.
-- Removing Elements: Elements can be removed using methods like remove(), removeAt(), and others.
-- Size and Capacity: The size() method returns the number of elements in the ArrayList. The ArrayList also has an internal capacity, which is the number of elements it can hold before it needs to be resized.
-- Iteration: You can iterate over the elements of an ArrayList using traditional for loops, enhanced for loops, or using iterators.
-- Performance: While ArrayList provides dynamic sizing, adding or removing elements from the middle of the list can be less efficient compared to adding or removing elements from the end, as it might involve shifting elements.
+- <b>Dynamic Sizing</b>: Unlike regular arrays, ArrayList can dynamically grow and shrink in size as elements are added or removed. You don't need to specify a fixed size upfront.
+- <b>Generic</b>: ArrayList is a generic class, which means it can hold elements of any data type. You specify the type of elements it will hold when creating an instance.
+- <b>Index-Based Access</b>: Elements in an ArrayList are stored with indexes, and you can access elements using their index. The index starts from 0.
+- <b>Adding Elements</b>: You can add elements to an ArrayList using the add() method. You can add elements at the end of the list or at a specific index.
+- <b>Removing Elements</b>: Elements can be removed using methods like remove(), removeAt(), and others.
+- <b>Size and Capacity</b>: The size() method returns the number of elements in the ArrayList. The ArrayList also has an internal capacity, which is the number of elements it can hold before it needs to be resized.
+- <b>Iteration</b>: You can iterate over the elements of an ArrayList using traditional for loops, enhanced for loops, or using iterators.
+- <b>Performance</b>: While ArrayList provides dynamic sizing, adding or removing elements from the middle of the list can be less efficient compared to adding or removing elements from the end, as it might involve shifting elements.
 
  ## Methods
  Here's a list of some common methods provided by the ArrayList class in Java:
