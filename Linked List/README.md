@@ -14,3 +14,6 @@
 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
