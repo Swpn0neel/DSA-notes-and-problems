@@ -9,3 +9,8 @@
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
