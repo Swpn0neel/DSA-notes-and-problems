@@ -1,5 +1,6 @@
 # Linked List
 ## Solved Problems
+### Easy
 - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -8,6 +9,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+### Medium
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -20,3 +22,5 @@
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [Rotate List](https://leetcode.com/problems/rotate-list/)
 - [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+### Hard
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
