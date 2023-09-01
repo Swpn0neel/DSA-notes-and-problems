@@ -18,3 +18,4 @@
 - [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+- [Rotate List](https://leetcode.com/problems/rotate-list/)
