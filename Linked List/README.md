@@ -9,6 +9,8 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 ### Medium
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
