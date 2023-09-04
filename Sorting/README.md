@@ -14,6 +14,8 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Height Checker](https://leetcode.com/problems/height-checker/)
 ### Medium
-
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 ### Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
