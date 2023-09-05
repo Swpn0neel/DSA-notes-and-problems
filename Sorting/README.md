@@ -17,6 +17,8 @@
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+- [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+- [Two Sum](https://leetcode.com/problems/two-sum/)
 ### Medium
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
