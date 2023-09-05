@@ -13,9 +13,14 @@
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Height Checker](https://leetcode.com/problems/height-checker/)
+- [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+- [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+- [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 ### Medium
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 ### Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
