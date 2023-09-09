@@ -19,6 +19,8 @@
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)
 ### Medium
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
