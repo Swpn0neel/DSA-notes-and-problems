@@ -23,6 +23,7 @@
 - [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)
 ### Medium
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
