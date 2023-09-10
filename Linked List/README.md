@@ -24,5 +24,6 @@
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [Rotate List](https://leetcode.com/problems/rotate-list/)
 - [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+- [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 ### Hard
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
