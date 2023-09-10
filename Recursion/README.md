@@ -7,5 +7,5 @@
 - [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 ### Medium
-
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 ### Hard
