@@ -19,3 +19,8 @@
 ### Prefix Sum
 - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) `Easy`
 - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) `Easy`
+### Linked List
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `Easy`
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) `Medium`
+- [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) `Medium`
+- [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) `Medium`
