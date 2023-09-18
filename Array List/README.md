@@ -1,6 +1,6 @@
 # Array List
 
-ArrayList is a class in Java that is a part of the java.util package. It is an implementation of the List interface and provides dynamic array-like behavior. It allows you to store and manipulate a collection of elements. Here are some key features and points about ArrayList:
+ArrayList is a class in Java that is a part of the java.util package. It is an implementation of the List interface and provides dynamic array-like behavior. It also allows you to store and manipulate a collection of elements. Here are some key features and points about ArrayList:
 - <b>Dynamic Sizing</b>: Unlike regular arrays, ArrayList can dynamically grow and shrink in size as elements are added or removed. You don't need to specify a fixed size upfront.
 - <b>Generic</b>: ArrayList is a generic class, which means it can hold elements of any data type. You specify the type of elements it will hold when creating an instance.
 - <b>Index-Based Access</b>: Elements in an ArrayList are stored with indexes, and you can access elements using their index. The index starts from 0.
