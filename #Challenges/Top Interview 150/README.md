@@ -9,3 +9,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) `Medium`
 - [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) `Medium`
 - [Jump Game](https://leetcode.com/problems/jump-game/) `Medium`
+### Matrix
+- [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `Medium`
+- [Rotate Image](https://leetcode.com/problems/rotate-image/) `Medium`
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) `Medium`
