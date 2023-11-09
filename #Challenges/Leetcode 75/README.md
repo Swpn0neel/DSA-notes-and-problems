@@ -25,3 +25,5 @@
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) `Medium`
 - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) `Medium`
 - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) `Medium`
+### Hash Map & Hash Set
+- [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) `Easy`
