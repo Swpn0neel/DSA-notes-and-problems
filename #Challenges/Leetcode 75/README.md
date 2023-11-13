@@ -27,3 +27,6 @@
 - [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) `Medium`
 ### Hash Map & Hash Set
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) `Easy`
+- [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) `Easy`
+- [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) `Medium`
+- [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) `Medium`
