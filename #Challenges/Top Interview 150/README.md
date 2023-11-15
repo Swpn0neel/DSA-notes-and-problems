@@ -19,6 +19,16 @@
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) `Medium`
 - [Rotate Image](https://leetcode.com/problems/rotate-image/) `Medium`
 - [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) `Medium`
+### Hash Map
+- [Ransom Note](https://leetcode.com/problems/ransom-note/) `Easy`
+- [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) `Easy`
+- [Word Pattern](https://leetcode.com/problems/word-pattern/) `Easy`
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/) `Easy`
+- [Two Sum](https://leetcode.com/problems/two-sum/) `Easy`
+- [Happy Number](https://leetcode.com/problems/happy-number/) `Easy`
+- [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) `Easy`
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/) `Medium`
+- [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) `Medium`
 ### Math
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/) `Easy`
 - [Plus One](https://leetcode.com/problems/plus-one/) `Easy`
