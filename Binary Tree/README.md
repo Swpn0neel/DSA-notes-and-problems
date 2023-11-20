@@ -19,4 +19,6 @@
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 ### Medium
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
+- [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/)
 ### Hard
