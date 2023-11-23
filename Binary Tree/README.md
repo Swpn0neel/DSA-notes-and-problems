@@ -19,11 +19,14 @@
 - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 ### Medium
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
 - [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/)
 - [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)
 - [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 - [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)
 ### Hard
 - [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)
 - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
