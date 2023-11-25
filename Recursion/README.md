@@ -8,4 +8,8 @@
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 ### Medium
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+- [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+- [Target sum](https://leetcode.com/problems/target-sum/)
 ### Hard
