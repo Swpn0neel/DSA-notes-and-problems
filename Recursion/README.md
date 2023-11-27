@@ -12,4 +12,7 @@
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 - [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 - [Target sum](https://leetcode.com/problems/target-sum/)
+- [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 ### Hard
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
