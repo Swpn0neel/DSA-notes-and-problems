@@ -8,4 +8,6 @@
 - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Triangle](https://leetcode.com/problems/triangle/)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
 ### Hard
