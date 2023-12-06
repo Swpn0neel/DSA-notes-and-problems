@@ -25,3 +25,4 @@
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 ### Hard
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
