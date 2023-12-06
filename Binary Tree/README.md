@@ -33,7 +33,10 @@
 - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
 - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 - [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 ### Hard
 - [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)
 - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
