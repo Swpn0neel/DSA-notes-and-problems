@@ -7,4 +7,5 @@
 - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 ### Medium
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+- [Simplify Path](https://leetcode.com/problems/simplify-path/)
 ### Hard
