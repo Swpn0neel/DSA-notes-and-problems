@@ -8,4 +8,7 @@
 ### Medium
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 - [Simplify Path](https://leetcode.com/problems/simplify-path/)
+- [Decode String](https://leetcode.com/problems/decode-string/)
+- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 ### Hard
