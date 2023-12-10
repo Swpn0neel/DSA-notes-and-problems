@@ -28,5 +28,6 @@
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [H-Index](https://leetcode.com/problems/h-index/)
 ### Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
