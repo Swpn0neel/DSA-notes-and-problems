@@ -23,6 +23,8 @@
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 ### Hard
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
