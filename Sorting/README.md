@@ -29,5 +29,8 @@
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [H-Index](https://leetcode.com/problems/h-index/)
+- [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 ### Hard
 - [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
