@@ -11,4 +11,7 @@
 - [Decode String](https://leetcode.com/problems/decode-string/)
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [132 Pattern](https://leetcode.com/problems/132-pattern/)
+- [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)
 ### Hard
+- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
