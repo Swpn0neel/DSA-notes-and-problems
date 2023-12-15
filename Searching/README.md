@@ -28,3 +28,4 @@
 ### Hard
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
